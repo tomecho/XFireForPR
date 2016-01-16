@@ -1,0 +1,10 @@
+C:\Users\Tom\AppData\Local\Temporary Projects\XfireForPR\bin\Debug\XfireForPR.exe.config
+C:\Users\Tom\Documents\Visual Studio 2012\Projects\XfireForPR\XfireForPR\bin\Debug\XfireForPR.exe.config
+C:\Users\Tom\Documents\Visual Studio 2012\Projects\XfireForPR\XfireForPR\bin\Debug\XfireForPR.exe
+C:\Users\Tom\Documents\Visual Studio 2012\Projects\XfireForPR\XfireForPR\bin\Debug\XfireForPR.pdb
+C:\Users\Tom\Documents\Visual Studio 2012\Projects\XfireForPR\XfireForPR\obj\Debug\XfireForPR.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Visual Studio 2012\Projects\XfireForPR\XfireForPR\obj\Debug\XfireForPR.Form1.resources
+C:\Users\Tom\Documents\Visual Studio 2012\Projects\XfireForPR\XfireForPR\obj\Debug\XfireForPR.Properties.Resources.resources
+C:\Users\Tom\Documents\Visual Studio 2012\Projects\XfireForPR\XfireForPR\obj\Debug\XfireForPR.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\Visual Studio 2012\Projects\XfireForPR\XfireForPR\obj\Debug\XfireForPR.exe
+C:\Users\Tom\Documents\Visual Studio 2012\Projects\XfireForPR\XfireForPR\obj\Debug\XfireForPR.pdb
